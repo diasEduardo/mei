@@ -8,7 +8,7 @@ https://www.creative-tim.com/bootstrap-themes
 #### Tips for using:
 
 - Edit CSS files in `assets/css/mei.css`
-- Edit JS files in `assets/js/js.css`
+- Edit JS files in `assets/js/mei.js`
 
 
 
