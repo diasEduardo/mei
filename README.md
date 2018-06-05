@@ -7,8 +7,8 @@ https://www.creative-tim.com/bootstrap-themes
 
 #### Tips for using:
 
-- Edit CSS files in `asseta/css/mei.css`
-- Edit JS files in `asseta/js/js.css`
+- Edit CSS files in `assets/css/mei.css`
+- Edit JS files in `assets/js/js.css`
 
 
 
