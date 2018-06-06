@@ -3,3 +3,8 @@
     padding: 20px 20px 0 20px;
     border-radius: 14px;
 }
+
+.navbar-user-summary-info p{
+    color: white;
+    font-size: small;
+}
